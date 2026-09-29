@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Amharic Keyboard</string>
+    <string name="keyboard_name">Amharic Phonetic Keyboard</string>
+    <string name="subtype_amharic">Amharic (QWERTY Phonetic)</string>
+    <string name="enable_keyboard">Enable Keyboard in Settings</string>
+    <string name="select_keyboard">Switch to Amharic Keyboard</string>
+    <string name="keyboard_status_enabled">Amharic Keyboard is enabled in system settings</string>
+    <string name="keyboard_status_disabled">Amharic Keyboard is not enabled yet</string>
+    <string name="keyboard_status_active">Currently active input method!</string>
+    <string name="keyboard_status_inactive">Not currently selected</string>
+    <string name="try_keyboard_hint">Type here to test transliteration (e.g. selam, bet, habesha)...</string>
+    <string name="phonetic_guide_title">Phonetic Typing Guide</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="clear_text">Clear</string>
+</resources>

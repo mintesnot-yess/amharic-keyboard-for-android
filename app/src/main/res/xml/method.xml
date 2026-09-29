@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/keyboard_name"
+    android:settingsActivity="com.example.MainActivity"
+    android:supportsSwitchingToNextInputMethod="true">
+    <subtype
+        android:label="@string/subtype_amharic"
+        android:imeSubtypeLocale="am_ET"
+        android:imeSubtypeMode="keyboard" />
+</input-method>
